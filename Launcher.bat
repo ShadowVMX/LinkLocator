@@ -54,6 +54,6 @@ set /p WaSender=Indique la ruta absoluta del archivo WhatsAppSender:
 python3 %WaSender%
 
 
-python3 D:\PythonWhatsapp\WhatsAppSender.py
+
 
 
