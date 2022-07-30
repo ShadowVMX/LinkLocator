@@ -70,3 +70,12 @@ Y como resultado, una vez los objetivos hagan click sobre el enlace podremos obt
 ![5](https://user-images.githubusercontent.com/92258683/181934209-81d5eca5-6f59-40c0-b15f-f8580cde8c05.png)
 
 
+
+
+
+# ESTIMADO USUARIO.
+
+Como creadores de la herramienta **NO** nos hacemos cargo del uso INDEBIDO de la misma sobre los usuarios, por ende, usen SIEMPRE todo con ética.
+
+
+
