@@ -80,7 +80,8 @@ Como creadores de la herramienta **NO** nos hacemos cargo del uso INDEBIDO de la
 
 # CREADORES:
 
-**- ShadowVMX --> https://github.com/ShadowVMX
-**- DeepHack --> https://github.com/deephack28
+**- ShadowVMX --> https://github.com/ShadowVMX**
+
+**- DeepHack --> https://github.com/deephack28**
 
 
