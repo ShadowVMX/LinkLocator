@@ -24,3 +24,17 @@ La información que podremos obtener es:
 6- Localización casi exacta del dispositivo.
 
 
+
+
+# Para versiones posteriores:
+
+1- CPU.
+
+2- RAM.
+
+3- GPU.
+
+
+
+
+
