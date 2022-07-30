@@ -78,4 +78,9 @@ Y como resultado, una vez los objetivos hagan click sobre el enlace podremos obt
 Como creadores de la herramienta **NO** nos hacemos cargo del uso INDEBIDO de la misma sobre los usuarios, por ende, usen SIEMPRE todo con ética.
 
 
+# CREADORES:
+
+- ShadowVMX --> https://github.com/ShadowVMX
+- DeepHack --> https://github.com/deephack28
+
 
